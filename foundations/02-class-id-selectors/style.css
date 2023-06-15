@@ -1,0 +1,23 @@
+/* style.css */
+/* Odd number*/
+.text{
+    background-color: hsl(360,100%,75%);
+    color: black;
+    font-family:'Verdana', DajaVu Sans, sans-serif;
+}
+
+.text-size{
+    font-size: 24px;
+}
+
+/* Id attributes even number*/
+#two{
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+#four{
+    background-color: rgba(0,255,0,0.5);
+    font-size: 24px;
+    font-weight: bold;
+}
